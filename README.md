@@ -1,1 +1,1 @@
-# customer-churn-prediction-enterpise-ml
+# customer-churn-prediction-banking-industry
